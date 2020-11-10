@@ -1,0 +1,8 @@
+H:\CafeBillingSystem_C#\CafeBillingSystem\CafeManagement\bin\Debug\CafeManagement.exe.config
+H:\CafeBillingSystem_C#\CafeBillingSystem\CafeManagement\bin\Debug\CafeManagement.exe
+H:\CafeBillingSystem_C#\CafeBillingSystem\CafeManagement\bin\Debug\CafeManagement.pdb
+H:\CafeBillingSystem_C#\CafeBillingSystem\CafeManagement\obj\Debug\RestaurantBillManagement.Form1.resources
+H:\CafeBillingSystem_C#\CafeBillingSystem\CafeManagement\obj\Debug\CafeManagement.Properties.Resources.resources
+H:\CafeBillingSystem_C#\CafeBillingSystem\CafeManagement\obj\Debug\RestaurantBillManagement.csproj.GenerateResource.Cache
+H:\CafeBillingSystem_C#\CafeBillingSystem\CafeManagement\obj\Debug\CafeManagement.exe
+H:\CafeBillingSystem_C#\CafeBillingSystem\CafeManagement\obj\Debug\CafeManagement.pdb
